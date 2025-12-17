@@ -1,6 +1,6 @@
 Hi! 👋 
 
-My name is Tamyris Harwood, and I am an Information Systems student with a passion for data analytics.
+My name is Tamyris Gimenez, and I am an Information Systems student with a passion for data analytics.
 
 - 🔍 I’m interested in history and genealogy, having spent the past eight years researching my family tree. 
 - 📚 I completed the Google Data Analytics Professional Certificate last year, and I am currently working on my portfolio projects.
